@@ -4,7 +4,7 @@
 
 I build reliable AI systems for real-world problems.
 
-**Focus:** Applied ML · Computer Vision · LLM/RAG · Intelligent Automation · Maritime AI
+**Focus:** Applied ML · Computer Vision · LLM/RAG · Intelligent Automation · 
 
 **Engineering principles:** Reproducibility · Evaluation · Data Quality · Clean APIs
 
